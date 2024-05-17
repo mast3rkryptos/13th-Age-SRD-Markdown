@@ -34,7 +34,7 @@ At 1st level, chaos mages start with adventuring clothes, a simple dagger (or a 
 
 Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 
-### Armor
+#### Armor
 
 | **Armor Type** | **Base AC** | **Atk Penalty** |
 |----------------|-------------|-----------------|
@@ -44,7 +44,7 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 | Shield| +1 | -2     |        
 ^13A-Class-Chaos-Mage-Armor
 
-### Melee Weapons
+#### Melee Weapons
 
 |                  | **One-Handed**                   | **Two-Handed**           |
 | ---------------- | -------------------------------- | ------------------------ |
@@ -53,7 +53,7 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 | Heavy or Martial | `dice: 1d8` (-5 atk) scimitar, warhammer | `dice: 1d10`(-6 atk) greatsword |      
 ^13A-Class-Chaos-Mage-Melee
 
-### Ranged Weapons
+#### Ranged Weapons
 
 |                  | **Thrown**           | **Crossbow**                | **Bow**               |
 | ---------------- | -------------------- | --------------------------- | --------------------- |
@@ -63,7 +63,7 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 
 ^13A-Class-Chaos-Mage-Ranged
 
-## Level Progression
+### Level Progression
 
 | Chaos Mage Level   | Total Hit Points  | Total Feats  | Daily Spells (M) | Once-per-Battle Spells (M) | Spell Level (M) | Level-up Ability Bonuses | Damage Bonus From Ability Score |
 |--------------------|----------------------------|--------------------------------|------------------|----------------------------|-----------------|--------------------------|---------------------------------|
@@ -84,7 +84,7 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 
 > [!info] Although not listed on the table, this class gets three talents. It does not get more at higher levels.
 
-## Stats
+### Stats
 
 | Ability Bonus      | +2 Intelligence or Charisma (different from racial bonus)    |
 |--------------------------------------|--------------------------------------------------------------|
@@ -101,9 +101,9 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 | Talents   | 1 per Level     |  
 ^13A-Class-Chaos-Mage-Stats
 
-## Basic Attacks
+### Basic Attacks
 
-### Melee Attack
+#### Melee Attack
 
 At-Will  
 **Target:** One enemy  
@@ -111,7 +111,7 @@ At-Will
 **Hit:** WEAPON + Strength damage  
 **Miss:** —
 
-### Ranged Attack
+#### Ranged Attack
 
 At-Will  
 **Target:** One enemy  
@@ -119,7 +119,7 @@ At-Will
 **Hit:** WEAPON + Dexterity damage  
 **Miss:** —
 
-## Class Features
+### Class Features
 
 Chaos mages use arcane implements, such as wands and staffs, to improve their attacks. Unlike wizards and clerics, chaos mages don’t choose the spells they know. Instead, a chaos mage of a given level can access all the spells in a category that are their level or lower.
 
@@ -127,7 +127,7 @@ The category of spell you’ll cast on your turn is randomly decided, but you ge
 
 Chaos mages are not allowed to cast rituals.
 
-### Chaos Magic
+#### Chaos Magic
 
 Chaos magic has three main categories of spells: attack, defence, and iconic.
 
@@ -223,17 +223,17 @@ One battle per day, each time you roll for a high weirdness effect, roll twice a
 | 100           | You gain an extra standard action during the next turn after this weirdness goes into effect.                                                                                                                                                                                                                                                                                                                                   |        
 ^13A-ChaosMage-HighWeirdness
 
-## Class Talents
+### Class Talents
 
 Choose three of the following class talents.
 
-### Warp Talents
+#### Warp Talents
 
 There are three separate Warp talents that you may choose from. They provide random powers or features that surface unpredictably during battles (and perhaps during non-combat moments of high tension).
 
 If a warp talent gives you access to a spell from another class, associate it with chaos magic’s attack category or defence category. You can then cast it if that spell type comes up for you.
 
-#### Attacking Warp
+##### Attacking Warp
 
 Your magic provides you with a random warp effect when the next spell you cast will be an attack spell. This talent works best for chaos mages with a high Dexterity.
 
@@ -267,7 +267,7 @@ Statblocks
 
 When one of your spells or powers lets you teleport to a nearby location, you can instead teleport to a faraway location you can see.
 
-#### Defensive Warp
+##### Defensive Warp
 
 Your magic provides you with a random warp effect when the next spell you cast will be a defence spell. This talent works best for chaos mages with a high Wisdom.
 
@@ -291,7 +291,7 @@ While you are at maximum hit points, you gain a +1 bonus to all defences.
 **Epic Feat**  
 When an attacker rerolls an attack against you, it takes an attack penalty equal to your Wisdom modifier.
 
-#### Iconic Warp
+##### Iconic Warp
 
 Your magic provides you with a random warp effect when the next spell you cast will be an iconic spell. This talent works best for chaos mages with a high Intelligence.
 
@@ -315,7 +315,7 @@ When you roll a natural 18–20 on a save, a nearby ally of your choice can roll
 **Epic Feat**  
 When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative).
 
-### Separate Existence
+#### Separate Existence
 
 You are ever-so-slightly detached from normal physical reality. Play the story side of that as you like; the game mechanics side is that you can cast ranged spells while engaged with enemies without taking opportunity attacks.
 
@@ -325,7 +325,7 @@ While you have an *air* or *void* warp effect active, you take no damage from mi
 **Champion Feat**  
 When you teleport, you can heal using a recovery.
 
-### Stench of Necromancy
+#### Stench of Necromancy
 
 You gain a random spell from the necromancer class. Whenever you take a full heal-up, randomly choose a necromancer spell of the highest level you can cast. For the rest of the day, you know this necromancer spell and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your chaos mage spellcasting sequence.
 
@@ -340,7 +340,7 @@ While you have an *earth* or *metal* warp effect active, when an enemy in the ba
 **Epic Feat**  
 If you don’t like the first random necromancer spell you select for the day, you can determine another random necromancer spell. You’re stuck with the second one.
 
-### Touch of Wizardry
+#### Touch of Wizardry
 
 You gain a random spell from the wizard class. Whenever you take a full heal-up, randomly choose a wizard spell of the highest level you can cast. For the rest of the day, you know this wizard spell and can cast it according to its normal usage pattern—at-will, cyclic, once per battle, recharge, or daily—when that option comes up during your chaos mage spellcasting sequence.
 
@@ -361,7 +361,7 @@ You gain a single daily use of the wizard’s *utility spell*, cast at your leve
 **Epic Feat**  
 If you don’t like the first random wizard spell you select for the day, you can determine another random wizard spell. You’re stuck with the second one.
 
-### Trace of the Divine
+#### Trace of the Divine
 
 You gain a random spell from the cleric class. Whenever you take a full heal-up, randomly choose a cleric spell of the highest level you can cast. For the rest of the day, you know this cleric spell and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your chaos mage spellcasting sequence.
 
@@ -376,7 +376,7 @@ While you have an *air* or *water* warp effect active, when you heal using a rec
 **Epic Feat**  
 In addition to the random invocation you gain at the start of the day, you also get the talent/domain powers that go with it.
 
-### Whiff of Sorcery
+#### Whiff of Sorcery
 
 You gain a random spell from the sorcerer class. Whenever you take a full heal-up, randomly choose a sorcerer spell of the highest level you can cast. For the rest of the day, you know this sorcerer spell and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your chaos mage spellcasting sequence.
 
@@ -389,7 +389,7 @@ While you have an *air* or *fire* warp effect active, add fire damage equal to y
 **Epic Feat**  
 If you don’t like the first random sorcerer spell you select for the day, you can determine another random sorcerer spell. You’re stuck with the second one.
 
-## Attack Spells (1st Level+)
+### Attack Spells (1st Level+)
 
 ![[Compendium/13A/Spells/Chaos-Ray#^spell]]
 
@@ -403,13 +403,13 @@ If you don’t like the first random sorcerer spell you select for the day, you 
 
 ![[Compendium/13A/Spells/Warped-Healing#^spell|Warped Healing]]
 
-## Iconic Spells & Feats
+### Iconic Spells & Feats
 
 In setting up your game universe, you should have a set of icons. Distribute them more or less evenly into the spell groups below according to the theme that matches best (Blood of Warriors, Light of the High Ones, Twisted Path). When the chaos mage rolls a particular icon, they can choose any spell associate that that icon’s group of spells.
 
 Multiple icons should belong to each group. Each group should have at-will spells and at least one per-battle and daily spell.
 
-### Blood of Warriors
+#### Blood of Warriors
 
 ![[Compendium/13A/Spells/Castigation#^spell|Castigation]]
 
@@ -427,7 +427,7 @@ Multiple icons should belong to each group. Each group should have at-will spell
 
 ![[Compendium/13A/Spells/Savage-Endings#^spell|Savage-Endings]]
 
-### Light of the High Ones
+#### Light of the High Ones
 
 ![[Compendium/13A/Spells/Silver-Arrows#^spell|Silver-Arrows]]
 
@@ -441,7 +441,7 @@ Multiple icons should belong to each group. Each group should have at-will spell
 
 ![[Compendium/13A/Spells/The-Final-Surge#^spell|The-Final-Surge]]
 
-### Twisted Path
+#### Twisted Path
 
 ![[Compendium/13A/Spells/Tortured-Scream#^spell|Tortured-Scream]]
 
